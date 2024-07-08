@@ -1,1 +1,1 @@
-# veezie
+OPEN SOURCE
